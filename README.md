@@ -1,2 +1,2 @@
 # -Cursor-Movement-Tester
-Measures cursor movement for over/undershoot, suggest recommended dpi etc
+Measures cursor movement for over/undershoot, suggest recommended dpi etc, #IN PROGRESS#
